@@ -1,0 +1,5 @@
+s=open("anuj.txt","a")
+f=input("type your text here")
+s.write(f)
+print("written successful")
+s.close()
